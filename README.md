@@ -1,4 +1,4 @@
 drugit.js
 =========
 
-My version plug-in drug.js. To use just add class 'drugit' for a block you want to drug. It's not working correctly now, soon ill fix it.
+simple drug and drop function. just add drugit class to youre block (it must have absolute position with left and top position).
